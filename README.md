@@ -11,11 +11,11 @@ The specialization consists of three courses:
    - 🏆 [View Certificate](https://www.coursera.org/account/accomplishments/verify/3MW83Z65HBFY) 
 2. **Advanced Learning Algorithms**
    - Explores advanced topics such as neural networks, decision trees, and ensemble methods.
-   - 🏆 [View Certificate](#) 
+   - 🏆 [View Certificate](https://www.coursera.org/account/accomplishments/verify/XG45KQE35LQK) 
 3. **Unsupervised Learning, Recommenders, Reinforcement Learning**
    - Focuses on clustering, recommendation systems, and reinforcement learning techniques.
-   - 🏆 [View Certificate](#)
-   - 🏆 [View Full Specialization Certificate](#)
+   - 🏆 [View Certificate](https://www.coursera.org/account/accomplishments/verify/O9C1401WU4CI)
+   - 🏆 [View Full Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/6VYJ6Z3CY6N1)
 ---
 ## 🔧 Technologies and Libraries Used
 
