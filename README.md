@@ -8,7 +8,7 @@ The specialization consists of three courses:
 
 1. **Supervised Machine Learning: Regression and Classification**
    - Covers the basics of supervised learning, including regression, classification, and gradient descent.
-   - 🏆 [View Certificate](#) 
+   - 🏆 [View Certificate](https://www.coursera.org/account/accomplishments/verify/3MW83Z65HBFY) 
 2. **Advanced Learning Algorithms**
    - Explores advanced topics such as neural networks, decision trees, and ensemble methods.
    - 🏆 [View Certificate](#) 
